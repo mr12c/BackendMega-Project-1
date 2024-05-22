@@ -1,0 +1,11 @@
+{
+  "name": "backendproject-1",
+  "version": "1.0.0",
+  "description": "a youtube like backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "vishal kumar",
+  "license": "ISC"
+}
